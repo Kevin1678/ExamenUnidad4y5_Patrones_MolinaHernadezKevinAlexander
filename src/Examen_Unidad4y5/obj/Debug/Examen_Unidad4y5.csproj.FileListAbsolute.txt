@@ -1,0 +1,8 @@
+C:\Users\kevin\source\repos\Examen_Unidad4y5\Examen_Unidad4y5\obj\Debug\Examen_Unidad4y5.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Examen_Unidad4y5\Examen_Unidad4y5\obj\Debug\Examen_Unidad4y5.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Examen_Unidad4y5\Examen_Unidad4y5\bin\Debug\Examen_Unidad4y5.exe.config
+C:\Users\kevin\source\repos\Examen_Unidad4y5\Examen_Unidad4y5\bin\Debug\Examen_Unidad4y5.exe
+C:\Users\kevin\source\repos\Examen_Unidad4y5\Examen_Unidad4y5\bin\Debug\Examen_Unidad4y5.pdb
+C:\Users\kevin\source\repos\Examen_Unidad4y5\Examen_Unidad4y5\obj\Debug\Examen_Unidad4y5.exe
+C:\Users\kevin\source\repos\Examen_Unidad4y5\Examen_Unidad4y5\obj\Debug\Examen_Unidad4y5.pdb
+C:\Users\kevin\source\repos\Examen_Unidad4y5\Examen_Unidad4y5\obj\Debug\Examen_Unidad4y5.exe.config
